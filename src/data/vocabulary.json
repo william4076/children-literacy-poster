@@ -1,0 +1,121 @@
+{
+  "超市": {
+    "core": [
+      "shōu yín yuán 收银员",
+      "huò jià 货架",
+      "gòu wù chē 购物车"
+    ],
+    "items": [
+      "píng guǒ 苹果",
+      "niú nǎi 牛奶",
+      "miàn bāo 面包",
+      "jī dàn 鸡蛋",
+      "shū cài 蔬菜",
+      "shuǐ guǒ 水果",
+      "ròu 肉",
+      "yú 鱼"
+    ],
+    "environment": [
+      "chū kǒu 出口",
+      "rù kǒu 入口",
+      "zhǐ shì pái 指示牌",
+      "dēng 灯",
+      "qiáng 墙"
+    ]
+  },
+  "医院": {
+    "core": [
+      "yī shēng 医生",
+      "hù shi 护士",
+      "bìng rén 病人"
+    ],
+    "items": [
+      "tīng zhěn qì 听诊器",
+      "yào 药",
+      "zhēn tǒng 针筒",
+      "tǐ wēn jì 体温计",
+      "kǒu zhào 口罩",
+      "bēi zi 杯子",
+      "chuáng 床"
+    ],
+    "environment": [
+      "bìng fáng 病房",
+      "mén zhěn 门诊",
+      "guà hào chù 挂号处",
+      "yào fáng 药房",
+      "mén 门"
+    ]
+  },
+  "公园": {
+    "core": [
+      "xiǎo péng you 小朋友",
+      "jiā zhǎng 家长",
+      "huá tī 滑梯"
+    ],
+    "items": [
+      "qiū qiān 秋千",
+      "zì xíng chē 自行车",
+      "qiú 球",
+      "fēng zheng 风筝",
+      "cǎo dì 草地",
+      "shù 树",
+      "huā 花",
+      "cháng yǐ 长椅"
+    ],
+    "environment": [
+      "hú 湖",
+      "xiǎo lù 小路",
+      "lù dēng 路灯",
+      "lā jī tǒng 垃圾桶",
+      "zhǐ shì pái 指示牌"
+    ]
+  },
+  "学校": {
+    "core": [
+      "lǎo shī 老师",
+      "xué sheng 学生",
+      "hēi bǎn 黑板"
+    ],
+    "items": [
+      "kè zhuō 课桌",
+      "yǐ zi 椅子",
+      "shū 书",
+      "bǐ 笔",
+      "běn zi 本子",
+      "shū bāo 书包",
+      "fěn bǐ 粉笔",
+      "hēi bǎn cā 黑板擦"
+    ],
+    "environment": [
+      "jiào shì 教室",
+      "cāo chǎng 操场",
+      "mén 门",
+      "chuāng hu 窗户",
+      "qiáng 墙"
+    ]
+  },
+  "动物园": {
+    "core": [
+      "sì yǎng yuán 饲养员",
+      "yóu kè 游客",
+      "lóng zi 笼子"
+    ],
+    "items": [
+      "dà xiàng 大象",
+      "shī zi 狮子",
+      "lǎo hǔ 老虎",
+      "hóu zi 猴子",
+      "xióng māo 熊猫",
+      "cháng jǐng lù 长颈鹿",
+      "bān mǎ 斑马",
+      "niǎo 鸟"
+    ],
+    "environment": [
+      "zhǐ shì pái 指示牌",
+      "xiǎo lù 小路",
+      "shù 树",
+      "shuǐ chí 水池",
+      "wéi lán 围栏"
+    ]
+  }
+}

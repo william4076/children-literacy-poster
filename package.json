@@ -1,0 +1,19 @@
+{
+  "name": "children-literacy-poster",
+  "version": "1.0.0",
+  "description": "儿童识字小报生成系统",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "node src/server.js"
+  },
+  "keywords": ["children", "education", "ai"],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "dotenv": "^16.3.1",
+    "axios": "^1.6.0",
+    "cors": "^2.8.5"
+  }
+}
